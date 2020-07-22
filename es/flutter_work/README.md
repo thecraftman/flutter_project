@@ -1,6 +1,6 @@
 # flutter_work
 
-A new Flutter project.
+Un nuevo proyecto de Flutter.
 
 ## Empezando
 
